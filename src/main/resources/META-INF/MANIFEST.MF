@@ -1,0 +1,3 @@
+Main-Class: org.tsykora.odata.server.ODataInfinispanServerRunner
+
+
