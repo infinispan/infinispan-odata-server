@@ -103,7 +103,7 @@
                     <configuration>
                         <archive>
                             <manifest>
-                                <mainClass>org.tsykora.odata.server.ODataInfinispanServerRunner</mainClass>
+                                <mainClass>org.infinispan.odata.server.ODataInfinispanServerRunner</mainClass>
                             </manifest>
                         </archive>
                         <descriptorRefs>
